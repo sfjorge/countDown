@@ -1,5 +1,5 @@
 // Set the date of your next date with your girlfriend (replace with your actual date)
-const nextDate = new Date('2023-09-30T08:05:00');
+const nextDate = new Date('2023-10-14T08:41:00');
 
 function updateCountdown() {
     const now = new Date();
